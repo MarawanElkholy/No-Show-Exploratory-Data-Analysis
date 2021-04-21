@@ -5,8 +5,8 @@ This Project Explores No Show Doctor Appointments Data From Brazil
 ## What was the goal :
 # I Was Exploring the data trying to find patterns and answering several questions:
 
-  #a- which variables affect the no show rate 
-  #b- which variables affect each other
+  a- which variables affect the no show rate 
+  b- which variables affect each other
   
   
 ## Observations and data wrangling :
